@@ -1,0 +1,14 @@
+{
+    "jieba_dict_path": "vendor/cppjieba/dict/jieba.dict.utf8",
+    "hmm_model_path": "vendor/cppjieba/dict/hmm_model.utf8",
+    "user_dict_path": "vendor/cppjieba/dict/user.dict.utf8",
+    "idf_path": "vendor/cppjieba/dict/idf.utf8",
+    "stopwords_path": "data/stopwords.txt",
+    
+    "svm_model_path": "model/svm_model.bin",
+    "train_data_path": "data/cnews.train.txt",
+    "test_data_path": "data/cnews.test.txt",
+    
+    "bert_model_path": "",
+    "server_port": 8080
+}

@@ -1,0 +1,21 @@
+# Build output
+build/
+
+# Data files (large training sets)
+data/
+model/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Test files
+test_api.py
